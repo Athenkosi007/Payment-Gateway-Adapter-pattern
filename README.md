@@ -10,4 +10,5 @@ The `IPaymentProcessor` interface defines a common `ProcessPayment()` method. Bo
 ## Example Output
 
 Processing payment of R100.00 via PayFast.
+
 Processing payment of $150 via PayPal.
