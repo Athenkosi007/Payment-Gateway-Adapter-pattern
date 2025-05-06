@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment Gateway Adapter pattern", "Payment Gateway Adapter pattern\Payment Gateway Adapter pattern.csproj", "{D974BD89-6F43-4E9E-967D-716B62C9E7D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D974BD89-6F43-4E9E-967D-716B62C9E7D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D974BD89-6F43-4E9E-967D-716B62C9E7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D974BD89-6F43-4E9E-967D-716B62C9E7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D974BD89-6F43-4E9E-967D-716B62C9E7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441A85CE-74E4-4FB2-8CDF-D8EB5F745F8D}
+	EndGlobalSection
+EndGlobal
